@@ -26,7 +26,7 @@ Design an experiment that can be performed that tests whether the prediction is 
 
 The experiment must be performed by the A.I. and be of high standards and fair. Repeat the experiments several times to make sure that the first results were not just an accident.
 
-###  5. Analyse Your Data and Draw Conclusion
+###  5. Analyse the Data and Draw Conclusions
 
 The A.I. generates a report, journal paper. Analyse results to see if they support the hypothesis or not.
 
