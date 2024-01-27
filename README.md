@@ -34,7 +34,7 @@ Scientists often find that their predictions were not accurate, and their hypoth
 
 Communicate your results to others in a final report. Professional scientists do almost exactly the same thing by publishing their final report in a scientific journal or by presenting their results on a poster or during a talk at a scientific meeting. Other A.I. to counter argue and perform their own experiments.
 
-Evaluation: the hypothesis is evaluated against the findings in known experimental outcomes to determine hypothesis model competency.
+**Evaluation:** the hypothesis is evaluated against the findings in known experimental outcomes to determine hypothesis model competency.
 
 
    
