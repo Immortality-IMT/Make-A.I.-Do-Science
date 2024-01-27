@@ -6,7 +6,7 @@ Scientific Method Learning utilizes the scientific method to learn.
 
 The scientific method involves 5 steps and 5 competencies which the A.I. must perform. The 6 models must...
 
-### 1. Ask a question that is pertinent to knowledge creation. Develop an aim.
+### 1. Generate a question that is pertinent to knowledge creation.
    
    The scientific method starts when you ask a question about something that you observe: How, What, When, Who, Which, Why, or Where?
 
