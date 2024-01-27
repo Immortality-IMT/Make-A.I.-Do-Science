@@ -1,4 +1,4 @@
-# Scientific Method Learning A.I.
+# Scientific Method Learning (A.I.)
 
 The goal of this project is to equip A.I. to perform the scientific method without any human intervention. So you turn on the A.I. and off it goes doing science, come back in a year.
 
