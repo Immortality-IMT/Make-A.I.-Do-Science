@@ -10,6 +10,8 @@ The scientific method involves 5 steps and 5 competencies which the A.I. must pe
    
    The scientific method starts when you ask a question about something that you observe: How, What, When, Who, Which, Why, or Where?
 
+   Rather than starting from scratch in putting together a plan for answering your question, savvy A.I. scientist does the research to produce important questions that do not repeat mistakes from the past.
+
 ### 2. Construct the Hypothesis
 
 A hypothesis is an educated guess and a prediction about how things work. It is an attempt to answer your question with an explanation that can be tested. A good hypothesis allows you to then make a prediction: "If _____ I do this _____, then _____ this _____ will happen."
