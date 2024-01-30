@@ -1,6 +1,6 @@
-# Scientific Method Learning (A.I.)
+# Make A.I. do science. CAS Journal
 
-The goal of this project is to equip A.I. to perform the scientific method without any human intervention. Switch on the A.I. and off it goes doing science, come back in a year, get a report.
+The goal of this project is to make A.I. to perform the scientific method without any human intervention. Switch on the A.I. and on it goes doing science, come back in a year, get a report.
 
 Scientific Method Learning utilizes the scientific method to learn.
 
