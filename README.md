@@ -10,9 +10,12 @@ Science is still largely performed by humans and has avoided computerisation. We
 2. Fine Tuning existing model
 3. Specialized new model
 
-These models can use different A.I strategies. Let's look at the scinetific method.
+These models can use different A.I strategies. 
 
-The scientific method involves 5 steps and 5 competencies which the A.I. must perform. The 6 models must...
+Add which systematic problem-solving technique you are working on.
+Add either your prompt engineering, notes on fine tuning an existing model or notes on building a specialized model. Along with any issues that stop your progress.
+
+Let's look at the scinetific method. The scientific method involves 5 steps and 5 competencies which the A.I. must perform. The 6 models must...
 
 ### 1. Generate a question that is pertinent to knowledge creation.
    
