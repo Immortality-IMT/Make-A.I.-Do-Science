@@ -15,7 +15,7 @@ These models can use different A.I strategies.
 Add which systematic problem-solving technique you are working on.
 Add either your prompt engineering, notes on fine tuning an existing model or notes on building a specialized model. Along with any issues that stop your progress.
 
-Let's look at the scinetific method. **Each step in the systematic problem solving technqique is termed a model.** The scientific method involves 5 steps and 5 competencies which the A.I. must perform. The 6 models must...
+Let's look at the scinetific method. **Each step in the systematic problem solving technique is termed a model.** The scientific method involves 5 steps and 5 competencies which the A.I. must perform. The 6 models must...
 
 ### 1. Generate a question that is pertinent to knowledge creation.
    
