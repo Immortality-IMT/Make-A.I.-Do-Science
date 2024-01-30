@@ -15,7 +15,7 @@ These models can use different A.I strategies.
 Add which systematic problem-solving technique you are working on.
 Add either your prompt engineering, notes on fine-tuning an existing model, or notes on building a specialized model. Along with any issues that stop your progress.
 
-Let's look at the scientific method. **Each step in the systematic problem-solving technique is termed a model.** The scientific method comprises 6 steps, the last step is, communicate results. So the A.I. need to perform 5 competencies. The base folder is called titled the systematic technique in question, here "scientific_method". Each subdirectory is titled after the step. So the 5 models for the scientific method are...
+Look at the scientific method. **Each step in the systematic problem solving technique is termed a model.** The scientific method comprises of 6 steps, the last step being, communicate results. So the A.I. really needs to perform 5 of the 6 competencies. The base folder is named after the systematic technique in question, here "scientific_method". Each subdirectory is named after the step in the method. So the 5 models for the scientific method are...
 
 ### 1. Generate a question that is pertinent to knowledge creation.
    
