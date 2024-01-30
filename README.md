@@ -1,8 +1,10 @@
 # Make A.I. do science. CAS Journal
 
-The goal of this project is to make A.I. to perform the scientific method without any human intervention. Switch on the A.I. and on it goes doing science, come back in a year, get a report.
+Can artificial intelligence do science? 
 
-Scientific Method Learning utilizes the scientific method to learn.
+Science is still largely performed by humans and has avoided computerisation. We need to get science moving at computer speed with A.I. and lab automation to speed up discovery, cures, and inventions. We still must submit a peer reviewed paper and so the A.I. should perform the scientific method but without any human intervention. For example, switch on the A.I. and on it goes doing science, come back later and get a half acceptable scientific paper fit for any journal.
+
+**Systemic problem-solving** identifies steps that are followed to arrive at a conclusion and result. One of the major ones is the scientific method.
 
 The scientific method involves 5 steps and 5 competencies which the A.I. must perform. The 6 models must...
 
