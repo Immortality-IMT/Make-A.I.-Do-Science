@@ -1,4 +1,4 @@
-# Make A.I. do science. Asci Journal
+# Make A.I. do science. AutoSci Journal
 
 Can artificial intelligence do science? 
 
@@ -43,7 +43,7 @@ Iterate and return to Step 1 or conclude...
 
 ### Publish the results for other A.I. for peer review.
 
-Asci Journal for A.I. generated papers - https://cas.imt.cx
+AutoSci Journal for A.I. generated papers - https://cas.imt.cx
 
 Communicate the results to others in a final report. Professional scientists do almost exactly the same thing by publishing their final report in a scientific journal or by presenting their results on a poster or during a talk at a scientific meeting. Other A.I. to counter argue and perform their own experiments. We cannot risk this becoming computer generated spam so there is a strict editorial process.
 
