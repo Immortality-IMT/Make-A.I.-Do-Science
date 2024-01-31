@@ -1,4 +1,4 @@
-# Make A.I. do science. Auto-Science Journal
+# Make A.I. Do Science. Auto-Science Journal
 
 Can artificial intelligence do science? 
 
