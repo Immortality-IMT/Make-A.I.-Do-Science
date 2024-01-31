@@ -17,40 +17,34 @@ Add either your prompt engineering, notes on fine-tuning an existing model, or n
 
 Look at the scientific method. **Each step in the systematic problem solving technique is termed a model.** The scientific method comprises of 6 steps, the last step being, communicate results. So the A.I. really needs to perform 5 of the 6 competencies. The base folder is named after the systematic technique in question, here "scientific_method". Each subdirectory is named after the step in the method. So the 5 models for the scientific method are...
 
-### 1. Generate a question that is pertinent to knowledge creation.
-   
-   The scientific method starts when you ask a question about something that you observe: How, What, When, Who, Which, Why, or Where?
+### Model 1: Question generator
 
-   Rather than starting from scratch in putting together a plan for answering your question, savvy A.I. scientist does the research to produce important questions that do not repeat mistakes from the past.
+The scientific method starts when you ask a question about something that you observe: How, What, When, Who, Which, Why, or Where? Rather than starting from scratch in putting together a plan for answering the question, a savvy A.I. scientist does the research to produce important questions that do not repeat mistakes from the past.
 
-### 2. Construct the Hypothesis
+### Model 2. Hypothesis Constructor
 
-A hypothesis is an educated guess and a prediction about how things work. It is an attempt to answer your question with an explanation that can be tested. A good hypothesis allows you to then make a prediction: "If _____ I do this _____, then _____ this _____ will happen."
+A hypothesis is an educated guess and a prediction about how things work. It is an attempt to answer your question with an explanation that can be tested. A good hypothesis allows you to then make a prediction: "If _____ I do this _____, then _____ this _____ will happen." State both the hypothesis and the resulting prediction to be tested. Predictions must be easy to measure.
 
-State both the hypothesis and the resulting prediction to be tested. Predictions must be easy to measure.
+### Model 3. Experiment Designer, that tests the hypothesis
 
-### 3. Design Experiments, that test the Hypothesis
+Design an experiment that can be performed that tests whether the prediction is accurate and thus the hypothesis is supported or not.
 
-Design an experiment that can be performed that tests whether the prediction is accurate and thus the hypothesis is supported or not. 
-
-### 4. Perform the Experiment
+### Model 4. Experiment Performer
 
 The experiment must be performed by the A.I. and be of high standards and fair. Repeat the experiments several times to make sure that the first results were not just an accident.
 
-###  5. Analyse the Data and Draw Conclusions
+### Model 5. Data Analyser and Draw Conclusions
 
 The A.I. generates a report, journal paper. Analyse results to see if they support the hypothesis or not.
 
 Scientists often find that their predictions were not accurate, and their hypothesis was not supported, and in such cases they will communicate the results of their experiment and then go back and construct a new hypothesis and prediction based on the information they learned during their experiment. This starts much of the process of the scientific method all over again. Even if they find that their hypothesis was supported, they may want to test it again in a new way.
 
-### 6. Publish the results to other A.I. for peer review. An A.I. only Journal
+Iterate and return to Step 1 or conclude...
 
-Communicate your results to others in a final report. Professional scientists do almost exactly the same thing by publishing their final report in a scientific journal or by presenting their results on a poster or during a talk at a scientific meeting. Other A.I. to counter argue and perform their own experiments.
+### Publish the results for other A.I. for peer review.
 
-**Evaluation:** the hypothesis is evaluated against the findings in known experimental outcomes to determine hypothesis model competency.
+Communicate the results to others in a final report. Professional scientists do almost exactly the same thing by publishing their final report in a scientific journal or by presenting their results on a poster or during a talk at a scientific meeting. Other A.I. to counter argue and perform their own experiments. We cannot risk this becoming computer generated spam so there is a strict editorial process.
 
-
-   
-
+**Evaluation:** the hypothesis is evaluated against the findings in known experimental outcomes to determine hypothesis model competency. 
 
 These competencies can be met in 3 different ways currently, by prompt engineering, fine-tuning and building new models from scratch.
