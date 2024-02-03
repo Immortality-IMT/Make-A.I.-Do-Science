@@ -39,22 +39,6 @@ Wait for daemon ready and go to url: http://localhost:5001/webui
 
 $ ipfs add /etc/passwd
 
-### Tahoe-LAFS
-
-Requires Python 3. Check for the version by running python --version
-
-$ pip install tahoe-lafs (or pip3 install tahoe-lafs) \
-$ tahoe --version (tip: should be greater than 1.19.0)
-
-$ mkdir tahoe \
-$ cd tahoe \
-$ tahoe create-introducer --hostname=example.com .
-
-$ tahoe run .
-
-Configure tahoe: cat ~/tahoe/tahoe.cfg add to activate web access: web.port = 8081 \
-Restart tahoe run .
-
 ### Make BitTorrent and IPFS point to the same folder
 
 Default: /var/lib/transmission-daemon/downloads \
