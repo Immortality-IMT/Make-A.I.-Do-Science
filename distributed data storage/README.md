@@ -15,7 +15,7 @@ $ sudo vi /etc/transmission-daemon/settings.json
 
 $ sudo systemctl restart transmission-daemon
 
-Navigate to http://127.0.0.1:9091 to access the Transmission Web UI. Username transmission and password transmission (change in the configuration file).
+WebUI: http://127.0.0.1:9091. Default same username and passowrd: transmission (change in the configuration file).
 
 ### IPFS
 
