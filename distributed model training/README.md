@@ -45,7 +45,8 @@ Involves setting up a master node, and then adding worker nodes. Test cluster fu
 
 ### BOINC
 
-in progress.
+The guide to making a new BOINC project is here. https://boinc.berkeley.edu/trac/wiki/CreateProjectCookbook \
+Ideally, someone would set up one project as a persistent server node and clients would submit their model training jobs to the server.
 
 ### Other
 
