@@ -6,26 +6,14 @@ IPFS to store and share files in a decentralized way, without relying on a centr
 
 IPFS stores training data over a network without one node nesessarily holding the entire file. Training models can take petabytes so that distributed data storage solution is useful.
 
-sudo apt-get update
-
-snap install ipfs \
-wget https://dist.ipfs.tech/kubo/v0.26.0/kubo_v0.26.0_linux-amd64.tar.gz \
-tar -xvzf kubo_v0.26.0_linux-amd64.tar.gz \
-sudo mv kubo /usr/local/bin/ \
-ipfs init \
-ipfs daemon \
-http://127.0.0.1:5001/webui
-
-or
-
-sudo apt-get install -y curl tar \
-curl -L https://dist.ipfs.io/go-ipfs/v0.9.1/go-ipfs_v0.9.1_linux-amd64.tar.gz | tar xz \
-cd go-ipfs \
-./ipfs init --clean \
-./ipfs daemon \
-./ipfs add /etc/passwd
-
-http://localhost:8080/ipfs/QmYwAPJzv5CZsnA625s3Xf2nemtYgPpHdWEz79ojWnPbdG
+$ wget https://dist.ipfs.io/go-ipfs/v0.9.1/go-ipfs_v0.9.1_linux-amd64.tar.gz \
+$ tar -xvzf go-ipfs_v0.9.1_linux-amd64.tar.gz
+$ cd go-ipfs \
+$ sudo ./install.sh \
+$ ipfs init \
+(write down and save the output key)
+$ ipfs daemon \
+$ ipfs add /etc/passwd
 
 Bring some bytes to the network if you want to train some models.
 
