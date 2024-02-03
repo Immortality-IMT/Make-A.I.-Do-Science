@@ -3,9 +3,11 @@
 ### BitTorrent
 
 $ sudo apt update \
-$ sudo apt install transmission-daemon \
+$ sudo apt install transmission-daemon
 
 Edit the configuration file /etc/transmission-daemon/settings.json
+
+$ sudo vi /etc/transmission-daemon/settings.json
 
   rpc-enabled: Set to true to enable the Remote Management interface. \
   rpc-bind-address: Set to 0.0.0.0 to bind the interface to all available network interfaces. \
@@ -13,7 +15,7 @@ Edit the configuration file /etc/transmission-daemon/settings.json
 
 $ sudo systemctl restart transmission-daemon
 
-Navigate to http://<server_ip>:9091 to access the Transmission Web UI. Username transmission and password transmission (change in the configuration file).
+Navigate to http://127.0.0.1:9091 to access the Transmission Web UI. Username transmission and password transmission (change in the configuration file).
 
 ### IPFS
 
