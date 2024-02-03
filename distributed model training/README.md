@@ -31,4 +31,4 @@ in progress.
 
 ### Other
 
-Google Colab with Jupyter notebook environment, Kaggle Kernels and CoLaboratory offers something similar. 
+Google Colab with Jupyter notebook environment, Kaggle Kernels offers something similar. 
