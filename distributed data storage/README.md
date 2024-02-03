@@ -1,6 +1,6 @@
 # Install Distributed Data Storage
 
-### BitTorrent
+## BitTorrent
 
 $ sudo apt update \
 $ sudo apt install transmission-daemon \
@@ -15,7 +15,7 @@ $ sudo systemctl restart transmission-daemon
 
 Navigate to http://<server_ip>:9091 to access the Transmission Web UI. Username transmission and password transmission (change in the configuration file).
 
-### IPFS
+## IPFS
 
 Leverage IPFS for storing training data. 
 
