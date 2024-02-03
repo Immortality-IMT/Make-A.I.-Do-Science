@@ -16,6 +16,7 @@ $ ipfs init \
 $ ipfs daemon \
 
 Wait for daemon ready and go to url: http://localhost:8080/ipfs/ [the generated key]
+Wait for daemon ready and go to url: http://localhost:5001/webui
 
 $ ipfs add /etc/passwd
 
