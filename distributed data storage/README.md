@@ -25,5 +25,3 @@ Wait for daemon ready and go to url: http://localhost:5001/webui
 $ ipfs add /etc/passwd
 
 Bring some bytes to the network if you want to train some models.
-
-1. BitTorrent
