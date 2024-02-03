@@ -41,7 +41,7 @@ $ ipfs add /etc/passwd
 
 ### Make BitTorrent and IPFS point to the same folder
 
-Default: /var/lib/transmission-daemon/downloads
+Default: /var/lib/transmission-daemon/downloads \
 Simply Add this folder to IPFS by choosing Add Folder from the webUI
 
 Bring some bytes to the network if you want to train some models.
