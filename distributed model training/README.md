@@ -51,7 +51,7 @@ Ideally, someone would set up one project as a persistent server node and client
 1. Cluster management utility to map and grade the network.
 2. Task scheduler, wait for submitted model training jobs.
 3. Alteration of code to add tf.cluster information on tf.distribute.
-4. Execute the script on the master node.
+4. Execute the script on the master node utilizing the cluster directly.
 
 All nodes need to be on the same version of tensor and python and working.
 
