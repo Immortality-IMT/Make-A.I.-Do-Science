@@ -46,6 +46,11 @@ Requires Python 3. Check for the version by running python --version
 $ pip install tahoe-lafs (or pip3 install tahoe-lafs) \
 $ tahoe --version
 
+$ mkdir tahoe
+$ cd tahoe
+$ tahoe create-introducer --hostname=example.com .
+$ tahoe run .
+
 ### Make BitTorrent and IPFS point to the same folder
 
 Default: /var/lib/transmission-daemon/downloads \
