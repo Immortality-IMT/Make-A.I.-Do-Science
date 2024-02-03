@@ -41,7 +41,7 @@ With Apache Spark is installed, ensure Java Development Kit (JDK) and Scala are 
 $ java -version \
 $ scala -version
 
-Involves setting up a master node, and then adding worker nodes. Then test cluster functionality.
+Involves setting up a master node, and then adding worker nodes. Test cluster functionality. Worker nodes can be over the internet. Jobs are sent to the master node for processing and the master node must rank worker nodes.
 
 ### BOINC
 
