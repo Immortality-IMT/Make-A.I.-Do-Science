@@ -6,9 +6,10 @@ Horovod for distributed deep learning, bringing model training time down, an exi
 
 Mainly used for LAN and a commercial cloud service. Although, there is no access to a network of other Horovod users who also borrow and lend their GPU resources.
 
-The kit is essential, but there is no dynamic resource sharing between users.
+The kit is essential, but there is no dynamic resource sharing between users. The environment variable HOROVOD_HOSTNAME is often used to specify the hostname or IP address of each machine in the cluster. Requires a central location to grab the current command and a ping utility to ensure horovod server uptime.
 
-Another similar computer cluster management software is **Apache Hadoop**.
+$ export HOROVOD_HOSTNAME=hostname_of_new_machine:port,hostname_of_existing_machine1:port,hostname_of_existing_machine2:port \
+$ horovodrun -np <num_processes> python your_training_script.py
 
 ### BOINC
 
