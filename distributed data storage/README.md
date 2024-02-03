@@ -48,7 +48,8 @@ $ tahoe --version
 
 $ mkdir tahoe \
 $ cd tahoe \
-$ tahoe create-introducer --hostname=example.com . \
+$ tahoe create-introducer --hostname=example.com .
+
 $ tahoe run .
 
 ### Make BitTorrent and IPFS point to the same folder
