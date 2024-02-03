@@ -41,6 +41,8 @@ With Apache Spark is installed, ensure Java Development Kit (JDK) and Scala are 
 $ java -version \
 $ scala -version
 
+Involves setting up a master node, and then adding worker nodes. Then test cluster functionality.
+
 ### BOINC
 
 in progress.
