@@ -26,6 +26,4 @@ $ ipfs add /etc/passwd
 
 Bring some bytes to the network if you want to train some models.
 
-### Filecoin
-
 1. BitTorrent
