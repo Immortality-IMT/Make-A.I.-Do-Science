@@ -46,7 +46,14 @@ Involves setting up a master node, and then adding worker nodes. Test cluster fu
 ### BOINC
 
 The guide to making a new BOINC project is here. https://boinc.berkeley.edu/trac/wiki/CreateProjectCookbook \
-Ideally, someone would set up one project as a persistent server node and clients would submit their model training jobs to the server.
+Ideally, someone would set up one project as a persistent server node and clients would submit their model training jobs to the server. The BOINC project was not really made for machine learning, the hack around.
+
+1. Cluster management utility to map and grade the network.
+2. Task scheduler, wait for submitted model training jobs.
+3. Alteration of code to add tf.cluster information on tf.distribute.
+4. Execute the script on the master node.
+
+All nodes need to be on the same version of tensor and python and working.
 
 ### Other
 
