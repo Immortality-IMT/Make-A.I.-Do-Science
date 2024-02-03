@@ -44,7 +44,7 @@ $ ipfs add /etc/passwd
 Requires Python 3. Check for the version by running python --version
 
 $ pip install tahoe-lafs (or pip3 install tahoe-lafs) \
-$ tahoe --version
+$ tahoe --version (tip: should be greater than 1.19.0)
 
 $ mkdir tahoe \
 $ cd tahoe \
