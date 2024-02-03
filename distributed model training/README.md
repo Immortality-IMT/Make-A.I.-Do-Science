@@ -28,3 +28,7 @@ $ horovodrun -np <num_processes> python your_training_script.py
 ### BOINC
 
 in progress.
+
+### Other
+
+Google Colab with Jupyter notebook environment, Kaggle Kernels and CoLaboratory offers something similar. 
