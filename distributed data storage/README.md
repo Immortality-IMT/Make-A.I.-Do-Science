@@ -19,7 +19,7 @@ http://127.0.0.1:5001/webui
 or
 
 sudo apt-get install -y curl tar \
-curl -L https://dist.ipfs.io/go-ipfs/v0.8.0/go-ipfs_0.8.0_linux-amd64.tar.gz | tar xz \
+curl -L https://dist.ipfs.io/go-ipfs/v0.9.1/go-ipfs_v0.9.1_linux-amd64.tar.gz | tar xz \
 cd go-ipfs \
 ./ipfs init --clean \
 ./ipfs daemon \
