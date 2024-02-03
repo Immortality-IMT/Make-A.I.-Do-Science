@@ -25,6 +25,8 @@ To WAN servers over the internet...
 $ export HOROVOD_HOSTNAME=hostname_of_new_pc:port,hostname_of_existing_pc1:port,hostname_of_existing_pc2:port \
 $ horovodrun -np <num_processes> python your_training_script.py
 
+Similar choice is Apache Spark.
+
 ### BOINC
 
 in progress.
