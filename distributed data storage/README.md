@@ -9,6 +9,9 @@ IPFS stores training data over a network without one node nesessarily holding th
 sudo apt-get update
 
 snap install ipfs \
+wget https://dist.ipfs.tech/kubo/v0.26.0/kubo_v0.26.0_linux-amd64.tar.gz \
+tar -xvzf kubo_0.3.0_linux-amd64.tar.gz \
+sudo mv kubo /usr/local/bin/ \
 ipfs init \
 ipfs daemon \
 http://127.0.0.1:5001/webui
