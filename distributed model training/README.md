@@ -17,6 +17,8 @@ Mainly used for LAN and a commercial cloud service. Although, there is no access
 
 The kit is essential, but there is no dynamic resource sharing between users. The environment variable HOROVOD_HOSTNAME is often used to specify the hostname or IP address of each machine in the cluster. 
 
+To WAN servers over the internet...
+
 1. Requires a central location for users to grab the current HOROVOD_HOSTNAME cluster command, relative to priority of your node in the network. The script generates the cluster HOROVOD_HOSTNAME export command depending on the specific callers uptime and contribution and places them with peers of their kind.
 2. A ping, statistic utility to ensure horovod server uptime, grade servers.
 
