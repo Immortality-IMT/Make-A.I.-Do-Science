@@ -1,5 +1,9 @@
 # Install Distributed Data Storage
 
+### BitTorrent
+
+### IPFS
+
 Leverage IPFS for storing training data. 
 
 IPFS to store and share files in a decentralized way, without relying on a central server or cloud storage provider. Instead, the files are stored across a network of computers (known as nodes), each of which has a copy of the file.
@@ -22,6 +26,6 @@ $ ipfs add /etc/passwd
 
 Bring some bytes to the network if you want to train some models.
 
-### Other Distributed Data Storage Systems
+### Filecoin
 
 1. BitTorrent
