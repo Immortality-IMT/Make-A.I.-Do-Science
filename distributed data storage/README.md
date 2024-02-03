@@ -15,7 +15,7 @@ $ ipfs init \
 (write down and save the output key)
 $ ipfs daemon \
 
-Wait for daemon ready and go to url: http://localhost:8080/ipfs/[the generated key]
+Wait for daemon ready and go to url: http://localhost:8080/ipfs/ [the generated key]
 
 $ ipfs add /etc/passwd
 
