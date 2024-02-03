@@ -36,6 +36,11 @@ $ echo 'export PATH=$PATH:/usr/local/spark/bin' >> ~/.bashrc \
 $ source ~/.bashrc \
 $ spark-shell --version
 
+With Apache Spark is installed, ensure Java Development Kit (JDK) and Scala are correctly configured.
+
+$ java -version \
+$ scala -version
+
 ### BOINC
 
 in progress.
