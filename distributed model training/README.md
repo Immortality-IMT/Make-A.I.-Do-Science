@@ -25,7 +25,16 @@ To WAN servers over the internet...
 $ export HOROVOD_HOSTNAME=hostname_of_new_pc:port,hostname_of_existing_pc1:port,hostname_of_existing_pc2:port \
 $ horovodrun -np <num_processes> python your_training_script.py
 
-Similar choice is Apache Spark.
+### Apache Spark
+
+Unified engine for large-scale data analytics. Data science at scale, erform Exploratory Data Analysis (EDA) on petabyte-scale data without having to resort to downsampling. Machine learning, train machine learning algorithms on a laptop and use the same code to scale to fault-tolerant clusters of thousands of machines.
+
+$ wget https://www.apache.org/dyn/closer.lua/spark/spark-3.5.0/spark-3.5.0-bin-hadoop3.tgz \
+$ sudo tar xvf spark-3.5.0-bin-hadoop3.tgz -C /usr/local/ \
+$ sudo ln -s /usr/local/spark-3.5.0-bin-hadoop3/ /usr/local/spark \
+$ echo 'export PATH=$PATH:/usr/local/spark/bin' >> ~/.bashrc \
+$ source ~/.bashrc \
+$ spark-shell --version
 
 ### BOINC
 
