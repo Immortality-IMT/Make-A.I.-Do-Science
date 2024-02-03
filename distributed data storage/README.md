@@ -54,6 +54,11 @@ $ tahoe run .
 
 Configure tahoe: cat ~/tahoe/tahoe.cfg
 
+Add to activate web and ssh access:
+
+web.port = 8081 \
+ssh.port = 8022 \
+ssh.authorized_keys_file = ~/.ssh/authorized_keys
 
 ### Make BitTorrent and IPFS point to the same folder
 
