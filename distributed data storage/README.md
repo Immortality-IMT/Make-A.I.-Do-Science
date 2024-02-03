@@ -10,7 +10,7 @@ $ wget https://dist.ipfs.io/go-ipfs/v0.9.1/go-ipfs_v0.9.1_linux-amd64.tar.gz \
 $ tar -xvzf go-ipfs_v0.9.1_linux-amd64.tar.gz \
 $ cd go-ipfs \
 $ sudo ./install.sh \
-$ source ~/.bashrc
+$ source ~/.bashrc  # or restart terminal \
 $ ipfs init \
 (write down and save the output key)
 $ ipfs daemon \
