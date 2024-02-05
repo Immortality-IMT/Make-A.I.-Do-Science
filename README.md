@@ -1,6 +1,6 @@
 # Make A.I. Do Science. Auto-Science Journal
 
-Can artificial intelligence do science? 
+Can artificial intelligence do science?
 
 Science is still largely performed by humans and has avoided computerisation. We need to get science moving at computer speed with A.I. and lab automation to speed up discovery, cures, and inventions. We still must submit a peer reviewed paper and so the A.I. should perform the scientific method without any human intervention. For example, switch on the A.I. and on it goes doing science, come back later and get a half acceptable scientific paper fit for any journal.
 
@@ -17,7 +17,7 @@ Add either your prompt engineering, notes on fine-tuning an existing model, or n
 
 Look at the scientific method. **Each step in the systematic problem solving technique is termed a model.** The scientific method comprises of 6 steps, the last step being, communicate results. So the A.I. really needs to perform 5 of the 6 competencies. The base folder is named after the systematic technique in question, here "scientific_method". Each subdirectory is named after the step in the method. So the 5 models for the scientific method are...
 
-### Model 1: Question generator
+### Model 1: Question Generator
 
 The scientific method starts when you ask a question about something that you observe: How, What, When, Who, Which, Why, or Where? Rather than starting from scratch in putting together a plan for answering the question, a savvy A.I. scientist does the research to produce important questions that do not repeat mistakes from the past.
 
